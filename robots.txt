@@ -1,0 +1,9 @@
+# robots.txt for Medical Visual Aid Design Studio
+User-agent: *
+Allow: /
+
+# Disallow nothing - all marketing and portfolio content is indexable
+Disallow:
+
+# Exact Sitemap location on GitHub Pages
+Sitemap: https://ramandhiman2.github.io/MedicalVisualAidDesign/sitemap.xml
