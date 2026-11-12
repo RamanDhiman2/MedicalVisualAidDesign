@@ -1,0 +1,6 @@
+
+
+# Credentials and Secrets
+*.json
+!package.json
+
