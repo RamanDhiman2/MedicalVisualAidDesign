@@ -3,8 +3,8 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://ramandhiman2.github.io/MedicalVisualAidDesign/</loc>
-    <lastmod>2026-11-12</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <image:image>
       <image:loc>https://images.unsplash.com/photo-1758691463203-cce9d415b2b5?w=1200&amp;q=80&amp;auto=format&amp;fit=crop</image:loc>
@@ -50,6 +50,39 @@
       <image:loc>https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=1200&amp;q=80&amp;auto=format&amp;fit=crop</image:loc>
       <image:title>PCD Pharma Franchise Website Design</image:title>
       <image:caption>Lead-generating pharmaceutical websites with product search and franchise inquiries</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ramandhiman2.github.io/MedicalVisualAidDesign/visual-aid-design/</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1758691463203-cce9d415b2b5?w=1200&amp;q=80&amp;auto=format&amp;fit=crop</image:loc>
+      <image:title>Pharma Visual Aid Design Services India</image:title>
+      <image:caption>Custom doctor detailing folders, spiral and hardbound pharma visual aids</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ramandhiman2.github.io/MedicalVisualAidDesign/pharma-packaging-design/</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1763668177859-0ed5669a795e?w=1200&amp;q=80&amp;auto=format&amp;fit=crop</image:loc>
+      <image:title>Pharma Packaging &amp; Medicine Box Design Freelance</image:title>
+      <image:caption>CDSCO compliant medicine mono cartons, blister foils and 3D renders</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ramandhiman2.github.io/MedicalVisualAidDesign/pcd-pharma-marketing-kit/</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1623305465231-d884ce752d59?w=1200&amp;q=80&amp;auto=format&amp;fit=crop</image:loc>
+      <image:title>PCD Pharma Marketing Kit Design</image:title>
+      <image:caption>Leave behind leaflets, reminder cards, and complete PCD branding kits</image:caption>
     </image:image>
   </url>
 </urlset>
